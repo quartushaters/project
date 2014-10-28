@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="BenGrooms_ECE473_Lab4">
+		<CBX_INST_ENTRY INSTANCE_NAME="|control|raminout2:DATAmem|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_4c82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|control|rominout2:INSTRmem|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_h922.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,4 @@
+Warning (10268): Verilog HDL information at CLKcounter.v(14): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at register32.v(26): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at register32_3in.v(29): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at regFileBoard.v(30): always construct contains both blocking and non-blocking assignments

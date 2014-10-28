@@ -6,9 +6,9 @@ DATA-RADIX = HEX; 							% Enter BIN, DEC, HEX, or OCT; unless %
 -- Specify initial data values for memory, format is address : data 
 CONTENT BEGIN
 -- Instruction memory
-00 				: 		00818020;			% add $16, $4, $1 0x00400000 = 0x00818020 %
-04 				: 		0101a020;			% add $20, $8, $1 0x00400004 = 0x0101a020 %
-08 				:		0181c020;			% add $24, $12, $1 0x00400008 = 0x0181c020 %
+00 				: 		00C43020;			% add $6, $5, $4 0x00400000 = 0x00C43020 %
+04 				: 		01074820;			% add $9, $8, $7 0x00400004 = 0x01074820 %
+08 				:		018a7020;			% add $14, $12, $10 0x00400008 = 0x018a7020 %
 0c				: 		00;					% nop %
 10 				: 		00;					% nop %
 14 				: 		00;					% nop %
